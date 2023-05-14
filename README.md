@@ -1,4 +1,6 @@
 ### Hi there 👋
+More than just a web design agency, we are a trusted business partner helping you achieve online success. Our team of web design experts has extensive experience in creating professional websites and online stores, optimized for search engines and in line with the latest design trends.
+
 
 <!--
 **netimagio/netimagio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
