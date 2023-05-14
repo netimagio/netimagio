@@ -1,5 +1,5 @@
 ### Hi there 👋
-More than just a <a href="https://netimagio.ro/">web design agency</a>, we are a trusted business partner helping you achieve online success. Our team of web design experts has extensive experience in creating professional websites and online stores, optimized for search engines and in line with the latest design trends.
+We are more than just a <a href="https://netimagio.ro/">web design agency</a>, we are a trusted business partner helping you achieve online success. Our team of web design experts has extensive experience in creating professional websites and online stores, optimized for search engines and in line with the latest design trends.
 💬 Visit our website for more details: https://www.netimagio.ro/
 
 
